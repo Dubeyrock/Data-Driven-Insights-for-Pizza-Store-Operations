@@ -1,6 +1,22 @@
 # Data-Driven-Insights-for-Pizza-Store-Operations
  Data-Driven Insights for Pizza Store Operations: Improving Delivery Performance and Revenue Management
 
+
+## important points
+
+Data-Driven Insights for Pizza Store Operations: Improving Delivery Performance and Revenue Management
+
+- Analyzed historical data related to order arrival and delivery times for Diminos Pizza Store.
+  
+  - Explored the suitability of different metrics to determine the store's performance based on delivery times.
+    
+  - Examined revenue generation and refund trends for a Pizza Store over multiple years.
+    
+  - Investigated the capacity planning needs for the delivery fleet to ensure efficient and timely deliveries.
+    
+  - Analyzed order data to identify peak hours and periods of high demand for delivery services.
+ 
+    
 ![png-clipart-pizza-delivery-graphics-food-delivery-motorcycle-cartoon-logo-motorcycle-cartoon](https://github.com/user-attachments/assets/1803538a-a4b8-4996-91f6-8c86c3b4fb31)
 
  
