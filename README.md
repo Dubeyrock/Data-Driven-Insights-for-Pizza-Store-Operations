@@ -15,9 +15,10 @@ Data-Driven Insights for Pizza Store Operations: Improving Delivery Performance 
   - Investigated the capacity planning needs for the delivery fleet to ensure efficient and timely deliveries.
     
   - Analyzed order data to identify peak hours and periods of high demand for delivery services.
- 
-    
-![png-clipart-pizza-delivery-graphics-food-delivery-motorcycle-cartoon-logo-motorcycle-cartoon](https://github.com/user-attachments/assets/1803538a-a4b8-4996-91f6-8c86c3b4fb31)
+
+
+ ![image](https://github.com/user-attachments/assets/3d9016ef-d359-41a5-8c2a-d08d5a770d36)
+
 
  
 ## Problem Statement 🍕
@@ -39,6 +40,13 @@ To address this challenge, Shivam seeks a data-driven approach to understand the
 As a data science expert you are tasked with analyzing historical data related to order arrival and delivery times, and other relevant variables. You as an expert are expected to provide actionable insights and recommendations that Kanav can implement to enhance the store's performance and secure its standing with Diminos.
 
 Help Kanav by analyzing the data and sharing insights to keep his business up and running.
+
+## Result 
+
+![image](https://github.com/user-attachments/assets/c55f282e-6903-49f1-b0d9-b7b9e9b5fa66)
+
+![image](https://github.com/user-attachments/assets/439c0f19-e32a-4302-9165-3d007c122926)
+
 
 
 
